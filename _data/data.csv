@@ -1,2 +1,2 @@
-venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-eScience Center,"Science Park 140, 1098 XG Amsterdam",Netherlands,52.35695685,4.95433748205789,"December 24 - 26, 2021, CET",7:00 - 9:00,2021-12-24T00:00:00Z,2021-12-26T00:00:00Z,"Johan Hidding, Lieke de Boer, Mateusz Kuzak","Pushpanjali Pawar, Thijs van Lankveld","ds","ds-parallel",Christmas special test workshop,2021-12-24-dc-socsci-R-nlesc,R
+venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor,eventbrite
+"Netherlands eScience Center (in person, Amsterdam)","Science Park 402, 1098 XH Amsterdam",Netherlands,52.3566292,4.9568662,"May 11, 2022",9:30 - 16:30 CEST,2022-05-11T00:00:00Z,2022-05-11T00:00:00Z,"Alessio Sclocco, Hanno Spreeuw, Ben van Werkhoven","Aron Jansen, Suvayu Ali",ds,ds-gpu,GPU programming,2022-05-11-ds-gpu,NA,NA
